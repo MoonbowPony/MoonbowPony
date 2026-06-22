@@ -1,8 +1,4 @@
-<p align="center" style="margin-bottom: 2rem">
-    <img align="center" src="dev_header.png"  width="600" />	
-</p>
-
-# MoonbowPony / GeekBrony 🦄
+# MoonbowPony 🦄
 - 💜 Pronouns: **she/her**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
