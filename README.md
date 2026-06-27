@@ -1,4 +1,4 @@
-# MoonbowPony 🦄
+# MoonbowPony / GeekBrony 🦄
 - 💜 Pronouns: **she/her**
 - 🎮 Unity Game Developer
 - 💾 Software Engineer
